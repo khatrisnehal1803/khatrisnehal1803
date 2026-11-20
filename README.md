@@ -23,7 +23,9 @@
 
 ## ✦ ABOUT ME
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<div align="center">
+<img align="right" width="250" src="https://github.com/khatrisnehal1803.png?size=300" alt="Snehal Khatri GitHub Profile Picture"/>
+</div>
 
 Hey! I'm **Snehal Khatri**, a passionate Full Stack Web Developer from India.
 
