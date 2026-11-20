@@ -1,5 +1,4 @@
-
-<div align="center">
+.<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F24,50:312E81,100:2563EB&height=220&section=header&text=Snehal%20Khatri&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
@@ -23,11 +22,7 @@
 
 ## ✦ ABOUT ME
 
-<p align="center">
-<a href="https://github.com/khatrisnehal1803">
-<img align="right" width="250" src="https://github.com/khatrisnehal1803.png" alt="Snehal Khatri"/>
-</a>
-</p>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 Hey! I'm **Snehal Khatri**, a passionate Full Stack Web Developer from India.
 
@@ -158,8 +153,7 @@ A premium developer portfolio showcasing projects, skills and development servic
 
 <br/><br/>
 
-### 💙 Thanks for visiting my profile!
-
-**Code • Create • Innovate • Repeat**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0B0F24&height=110&section=footer" width="100%"/>
 
 </div>
+ae val same xhiye is me kar do ap hi
