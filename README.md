@@ -1,4 +1,4 @@
-.<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F24,50:312E81,100:2563EB&height=220&section=header&text=Snehal%20Khatri&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
