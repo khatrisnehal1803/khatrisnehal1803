@@ -23,9 +23,11 @@
 
 ## ✦ ABOUT ME
 
-<div align="center">
-<img align="right" width="250" src="https://github.com/khatrisnehal1803.png?size=300" alt="Snehal Khatri GitHub Profile Picture"/>
-</div>
+<p align="center">
+<a href="https://github.com/khatrisnehal1803">
+<img align="right" width="250" src="https://github.com/khatrisnehal1803.png" alt="Snehal Khatri"/>
+</a>
+</p>
 
 Hey! I'm **Snehal Khatri**, a passionate Full Stack Web Developer from India.
 
@@ -156,6 +158,8 @@ A premium developer portfolio showcasing projects, skills and development servic
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0B0F24&height=110&section=footer" width="100%"/>
+### 💙 Thanks for visiting my profile!
+
+**Code • Create • Innovate • Repeat**
 
 </div>
