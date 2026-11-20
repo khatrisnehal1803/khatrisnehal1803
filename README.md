@@ -91,14 +91,6 @@ A home services platform focused on connecting customers with professional home 
 <tr>
 <td width="50%">
 
-### 💼 LP Workzo
-
-Web development and modern frontend implementation.
-
-**Tech:** React.js, JavaScript, Tailwind CSS
-
-</td>
-<td width="50%">
 
 ### 👩‍💻 Personal Portfolio
 
